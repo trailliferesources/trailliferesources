@@ -1,5 +1,5 @@
-Here you can say lots of fun things about your site.
+Welcome to Trail Life Resources!
 
-Maybe say a some things about yourself.
+We want to help Trailmen and Leaders be fully equipped to walk worthy in all areas.
 
-Or maybe what you plan to blog about.
+Here you can find badge helps, outdoor skills and activities, skits, songs, devotional ideas, and more related to Trail Life USA.  We welcome your help and contributions to share with other Trailmen.
