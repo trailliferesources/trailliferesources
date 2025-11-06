@@ -1,0 +1,4 @@
+baseURL = 'https://trailliferesources.github.io/'
+languageCode = 'en-us'
+title = 'Trail Life USA Resources'
+theme = 'PaperMod'
